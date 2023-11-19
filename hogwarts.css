@@ -1,0 +1,306 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url(https://w0.peakpx.com/wallpaper/290/679/HD-wallpaper-harry-potter-harry-potter-and-the-chamber-of-secrets-hogwarts-castle.jpg);
+    background-size: cover;
+    background-color: rgba(24, 24, 24, 0.534);
+    background-blend-mode: hue;
+}
+
+.main-header {
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    opacity: 0.8;
+    position: sticky;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+}
+
+
+.name {
+    color: bisque;
+    margin-left: -250px;
+    margin-top: 100px;
+    width: 500px;
+    font-family: Hogwarts;
+    font-size: 50px;
+    
+}
+
+ul {
+    display: flex;
+    color: white;
+    margin-left: 90px;
+    margin-top: 100px;
+
+
+}
+
+li {
+    margin-left: 50px;
+    font-size: 50px;
+
+
+}
+
+.log {
+    background-color: bisque;
+    color: black;
+    margin-left: 35px;
+    margin-top: 100px;
+    height: 58px;
+    width: 255px;
+    border-radius: 100px;
+    cursor: pointer;
+    font-size: 40px;
+}
+
+.Sign {
+    background-color: bisque;
+    color: black;
+    margin-left: 35px;
+    margin-top: 100px;
+    height: 58px;
+    width: 255px;
+    border-radius: 100px;
+    cursor: pointer;
+    font-size: 40px;
+
+}
+
+a {
+    color: bisque;
+    text-decoration: none;
+}
+
+.welcome {
+    font-family: Hogwarts;
+    margin-top: 60px;
+    text-align: center;
+    font-size: 100px;
+    word-spacing: 10px;
+    letter-spacing: 10px;
+    color: rgb(255, 248, 248);
+
+}
+
+.logo {
+    margin-left: -190px;
+}
+
+@font-face {
+    font-family: Hogwarts;
+    src: url(HarryP-MVZ6w.ttf);
+}
+
+footer {
+    background-color: black;
+    opacity: 0.8;
+    margin-top: 400px;
+
+}
+
+.container {
+    width: 100%;
+    color: bisque;
+    opacity: 0.8;
+    margin: auto;
+    margin-top: 300px;
+
+}
+
+.main {
+    margin: auto;
+    margin-top: 50px;
+}
+
+.main1 {
+    display: flex;
+
+
+
+}
+
+.child {
+
+    margin-top: 30px;
+    margin: auto;
+
+}
+
+.child2 {
+    margin-top: 30px;
+    font-family: sans-serif;
+    font-size: 30px;
+
+}
+
+.main2 {
+    font-size: 25px;
+    margin-top: 50px;
+
+}
+
+.owner {
+    margin-left: 1200px;
+}
+
+.classes {
+    height: 500px;
+    width: 850px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/210/403/desktop-wallpaper-harry-potter-golden-trio.jpg);
+    background-color: rgba(16, 16, 17, 0.534);
+    background-blend-mode: hue;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+.intro1 {
+    margin-top: 120px;
+    margin-left: 300px;
+    color: white;
+    font-size: 100px;
+    font-family: hogwarts;
+    letter-spacing: 5px;
+
+}
+
+.p1 {
+    display: flex;
+}
+
+.getadmitted {
+
+    width: 10%;
+    margin: auto;
+    margin-top: 58px;
+}
+
+.admission {
+    height: 58px;
+    width: 225px;
+    background-color: bisque;
+    color: black;
+    font-family: hogwarts;
+    font-size: 40px;
+    border-radius: 25px;
+    cursor: pointer;
+    border: none;
+}
+
+.p2 {
+    display: flex;
+}
+
+.wands {
+    background-color: rgba(16, 16, 17, 0.534);
+    background-blend-mode: hue;
+    margin-top: 80px;
+    margin-left: 80px;
+    background-image: url(https://w0.peakpx.com/wallpaper/399/664/HD-wallpaper-harry-potter-deathly-dumbledore-hallows-harry-hogwarts-potter-wand.jpg);
+    height: 1200px;
+    width: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.wands1{
+    margin-top: 120px;
+    margin-left: 50px;
+    color: white;
+    font-size: 80px;
+    font-family: hogwarts;
+    letter-spacing: 5px;
+}
+.buywands{
+    width: 10%;
+    margin: auto;
+    
+}
+.cart{
+    height: 58px;
+    width: 225px;
+    background-color: bisque;
+    color: black;
+    font-family: hogwarts;
+    font-size: 40px;
+    border-radius: 25px;
+    cursor: pointer;
+    border: none;
+}
+.Contactintro{
+    width: 700px;
+    margin: auto;
+    color: bisque;
+    font-size: 30px;
+    font-family: hogwarts;
+    letter-spacing: 5px;
+    margin-top: 40px;
+}
+
+.Note{
+    width: 25%;
+    margin: auto;
+    margin-top: 30px;
+    font-family: hogwarts;
+    font-size: 50px;
+    color: whitesmoke;
+    letter-spacing: 10px;
+}
+.student{
+    height: 58px;
+    width: 355px;
+    font-size: 35px;
+    font-family: hogwarts;
+}
+textarea::placeholder{
+    font-family: hogwarts;
+    font-size: 35px;
+}
+label{
+    font-family: hogwarts;
+    font-size: 35px;
+color: bisque;
+}
+#Help{
+    height: 25px;
+    width: 45px;
+}
+#Admission{
+    height: 25px;
+    width: 45px;
+}
+.button{
+    height: 58px;
+    width: 255px;
+    font-family: hogwarts;
+    font-size: 35px;
+}
+.form{
+    background-color: black;
+    opacity: 0.8;
+    width: 25%;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    margin-top: 70px;
+}
+.def{
+    font-size: 65px;
+    color: bisque;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    text-align: justify;
+}
+.def1{
+    font-size: 65px;
+    color: bisque;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    text-align: justify;
+}
